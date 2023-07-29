@@ -1,0 +1,11 @@
+Model Information:
+* title:	BEAUTY FORUM
+* source:	https://sketchfab.com/3d-models/beauty-forum-fe3f14380d2a4c0fa5d78db7e9842d00
+* author:	tonnibravia (https://sketchfab.com/tonnibravia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BEAUTY FORUM" (https://sketchfab.com/3d-models/beauty-forum-fe3f14380d2a4c0fa5d78db7e9842d00) by tonnibravia (https://sketchfab.com/tonnibravia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
